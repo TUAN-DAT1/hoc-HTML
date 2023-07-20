@@ -1,0 +1,14 @@
+2023/07/20-09:40:24.045 5 Creating DB /home/tuandat/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb since it was missing.
+2023/07/20-09:40:24.057 5 Reusing MANIFEST /home/tuandat/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/20-10:04:08.759 b Level-0 table #5: started
+2023/07/20-10:04:08.769 b Level-0 table #5: 29577 bytes OK
+2023/07/20-10:04:08.772 b Delete type=0 #3
+2023/07/20-10:21:47.447 b Level-0 table #7: started
+2023/07/20-10:21:47.450 b Level-0 table #7: 18271 bytes OK
+2023/07/20-10:21:47.453 b Delete type=0 #4
+2023/07/20-10:57:08.807 1f Level-0 table #9: started
+2023/07/20-10:57:08.815 1f Level-0 table #9: 23741 bytes OK
+2023/07/20-10:57:08.818 1f Delete type=0 #6
+2023/07/20-11:19:59.415 1f Level-0 table #11: started
+2023/07/20-11:19:59.419 1f Level-0 table #11: 30705 bytes OK
+2023/07/20-11:19:59.422 1f Delete type=0 #8

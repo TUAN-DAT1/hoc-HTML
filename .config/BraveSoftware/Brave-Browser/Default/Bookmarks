@@ -1,0 +1,47 @@
+{
+   "checksum": "f88a1f75941ac98b40deffb792c0cb51",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13334294474506029",
+            "date_last_used": "13334296353565674",
+            "guid": "98ff1006-6c1b-460b-83ae-4586c5bc821a",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Translate",
+            "type": "url",
+            "url": "https://translate.google.com/?sl=en&tl=vi&op=translate"
+         } ],
+         "date_added": "13334294424003524",
+         "date_last_used": "0",
+         "date_modified": "13334294474506029",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13334294424003526",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13334294424003527",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,14 @@
+2023/07/20-10:26:09.988 6a1b Creating DB /home/tuandat/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/07/20-10:26:09.992 6a1b Reusing MANIFEST /home/tuandat/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/20-10:32:10.222 6c1f Level-0 table #5: started
+2023/07/20-10:32:10.269 6c1f Level-0 table #5: 1235724 bytes OK
+2023/07/20-10:32:10.276 6c1f Delete type=0 #3
+2023/07/20-10:47:08.583 711e Level-0 table #7: started
+2023/07/20-10:47:08.599 711e Level-0 table #7: 1021000 bytes OK
+2023/07/20-10:47:08.601 711e Delete type=0 #4
+2023/07/20-10:49:13.311 711e Compacting 1@1 + 1@2 files
+2023/07/20-10:49:13.324 711e Generated table #8@1: 428 keys, 46694 bytes
+2023/07/20-10:49:13.324 711e Compacted 1@1 + 1@2 files => 46694 bytes
+2023/07/20-10:49:13.327 711e compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/20-10:49:13.328 711e Delete type=2 #7
+2023/07/20-10:49:13.328 711e Delete type=2 #5

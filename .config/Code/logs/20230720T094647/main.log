@@ -1,0 +1,8 @@
+2023-07-20 09:46:47.337 [info] update#setState idle
+2023-07-20 09:46:50.387 [info] Starting extension host with pid 23122 (fork() took 22 ms).
+2023-07-20 09:47:17.206 [info] update#setState checking for updates
+2023-07-20 09:47:17.222 [info] update#setState available for download
+2023-07-20 09:56:22.292 [info] Extension host with pid 23122 exited with code: 0, signal: null.
+2023-07-20 09:56:23.810 [info] Starting extension host with pid 23498 (fork() took 15 ms).
+2023-07-20 10:10:46.696 [info] Waiting for extension host with pid 23498 to exit.
+2023-07-20 10:10:46.769 [info] Extension host with pid 23498 exited with code: 0, signal: null.

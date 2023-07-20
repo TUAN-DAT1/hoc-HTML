@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="10" last-seen="1689839774"/>
+    <application id="gnome-initial-setup.desktop" score="3" last-seen="1689820789"/>
+    <application id="rhythmbox.desktop" score="0" last-seen="1689825735"/>
+    <application id="org.gnome.Terminal.desktop" score="59" last-seen="1689839773"/>
+    <application id="code.desktop" score="238" last-seen="1689839935"/>
+    <application id="gnome-control-center.desktop" score="4" last-seen="1689827287"/>
+    <application id="brave-browser.desktop" score="2364" last-seen="1689839940"/>
+    <application id="update-manager.desktop" score="0" last-seen="1689820869"/>
+    <application id="gnome-network-panel.desktop" score="0" last-seen="0"/>
+  </context>
+</application-state>
